@@ -11,5 +11,5 @@ A simple Library Management System made with Python Tkinter and SQLite.
 
 ## How to Run
 1. Download the project
-2. Run `library_system.py`
+2. Run `library.py`
 3. Enjoy! 📚
